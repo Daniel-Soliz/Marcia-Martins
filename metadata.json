@@ -1,0 +1,6 @@
+{
+  "name": "Marcia Martins Estética",
+  "description": "Clínica de estética especializada em rejuvenescimento natural, cuidados faciais, corporais e drenagem linfática em Freguesia do Ó, São Paulo. Atendimento exclusivo e acolhedor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

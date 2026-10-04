@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marciamartinsestetica.com.br/sitemap.xml
